@@ -76,6 +76,15 @@ A Python-based project that checks password strength using basic security rules.
 
 ---
 
+### 🌐 Network Port Scanner
+
+A beginner-friendly Python TCP port scanner built to learn networking and cybersecurity fundamentals. It scans selected ports on localhost and identifies ports accepting TCP connections.
+
+**Technologies:** Python | Socket Programming | TCP/IP | Networking
+
+👉 [View Project](https://github.com/broun-cyber/network-port-scanner)
+---
+
 ### 🛡️ More Projects Coming Soon
 
 I'm currently learning and building projects related to:
