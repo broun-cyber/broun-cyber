@@ -1,6 +1,18 @@
-# Hi, I'm Broun 👋
+<h1 align="center">Hi 👋, I'm Broun Verma</h1>
 
-### Recruiter | BCA Student | Cybersecurity Learner
+<h3 align="center">
+Recruiter 💼 | BCA Student 🎓 | Cybersecurity Learner 🔐
+</h3>
+
+<p align="center">
+Building my journey from Recruitment to Technology & Cybersecurity
+</p>
+
+<p align="center">
+🐍 Python • 🐧 Linux • 🌐 Networking • 🔐 Cybersecurity
+</p>
+
+---
 
 I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** with a focus on **Cybersecurity**.
 
