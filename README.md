@@ -53,10 +53,25 @@ My goal is to continuously learn, build practical projects, and grow professiona
 
 ## 🚀 Projects
 
-I'm currently building my first projects.
+### 🔐 Password Strength Checker
 
-Projects related to **BCA, Python, Linux, Networking, and Cybersecurity** will be added here as I progress.
+A Python-based project that checks password strength using basic security rules.
 
+**Technologies:** Python | Regular Expressions | Cybersecurity Fundamentals
+
+👉 [View Project](https://github.com/broun-cyber/password-strength-checker)
+
+---
+
+### 🛡️ More Projects Coming Soon
+
+I'm currently learning and building projects related to:
+
+- Python
+- Linux
+- Networking
+- Cybersecurity
+- BCA Programming
 ---
 
 ## 🎯 Current Focus
