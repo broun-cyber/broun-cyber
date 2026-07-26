@@ -89,7 +89,6 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 
 ## 🚀 Projects
 
----
 
 ### 🔐 Password Strength Checker
 
