@@ -14,11 +14,6 @@ Building my journey from Recruitment to Technology & Cybersecurity
 
 ---
 
-I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** with a focus on **Cybersecurity**.
-
-Alongside my experience in recruitment, I'm building my technical skills in cybersecurity, networking, Linux, programming, and information security.
-
-My goal is to continuously learn, build practical projects, and grow professionally in the field of **Cybersecurity**.
 
 ---
 
@@ -139,17 +134,6 @@ I'm currently learning and building projects related to:
 - Cybersecurity
 - BCA Programming
 ---
-
-## 🎯 Current Focus
-
-Currently focusing on:
-
-- Strengthening programming fundamentals
-- Learning Linux
-- Understanding computer networks
-- Building a strong foundation in cybersecurity
-- Creating hands-on projects
-- Improving my GitHub portfolio
 
 ---
 
