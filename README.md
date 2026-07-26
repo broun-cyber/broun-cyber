@@ -102,9 +102,23 @@ Currently focusing on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Coming Soon
-- 📧 Email: Coming Soon
+## 📫 Connect With Me
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/broun-v-a399332a9">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:brounverma@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+I'm always open to connecting with professionals, developers, recruiters, and cybersecurity learners.
+
+Feel free to reach out for networking, learning, collaboration, and professional opportunities.
 ---
 
 > Learning. Building. Improving.
