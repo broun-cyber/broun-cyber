@@ -45,8 +45,10 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 ![C++](https://img.shields.io/badge/C++-Learning-blue?logo=cplusplus&logoColor=white)
 
 - Python Programming
+- C Programming
+- C++ Programming
 - Programming Fundamentals
-
+  
 ### 🔐 Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red)
@@ -114,6 +116,7 @@ A beginner-friendly Python TCP port scanner built to learn networking and cybers
 **Technologies:** Python | Socket Programming | TCP/IP | Networking
 
 👉 [View Project](https://github.com/broun-cyber/network-port-scanner)
+
 ---
 
 ### 🛡️ More Projects Coming Soon
@@ -125,8 +128,6 @@ I'm currently learning and building projects related to:
 - Networking
 - Cybersecurity
 - BCA Programming
----
-
 ---
 
 ## 📫 Connect With Me
