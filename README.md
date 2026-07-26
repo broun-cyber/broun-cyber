@@ -84,30 +84,6 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 - People Management
 
 ---
-### 💻 Programming
-
-![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Learning-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Learning-blue?logo=cplusplus&logoColor=white)
-
-### 🔐 Cybersecurity
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red)
-![Network Security](https://img.shields.io/badge/Network%20Security-Learning-orange)
-![Information Security](https://img.shields.io/badge/Information%20Security-Learning-green)
-
-### 🖥️ Systems & Tools
-
-![Linux](https://img.shields.io/badge/Linux-Learning-black?logo=linux)
-![Git](https://img.shields.io/badge/Git-Learning-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)
-
-### 💼 Professional
-
-![Recruitment](https://img.shields.io/badge/Recruitment-Professional-blue)
-![Talent Acquisition](https://img.shields.io/badge/Talent%20Acquisition-Professional-blue)
-
----
 
 ## 🚀 Projects
 
