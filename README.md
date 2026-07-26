@@ -24,6 +24,13 @@ My goal is to continuously learn, build practical projects, and grow professiona
 
 ## 👨‍💻 About Me
 
+I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** with a focus on **Cybersecurity**.
+
+Alongside my professional experience in recruitment, I'm building practical skills in **Python, Linux, Computer Networking, Git/GitHub, and Cybersecurity fundamentals** through hands-on projects.
+
+My recruitment background has helped me develop strong **communication, coordination, problem-solving, and people-management skills**, while my BCA journey is helping me build a strong technical foundation.
+
+My goal is to continuously learn, build practical projects, and grow toward a career in **Cybersecurity and Information Security**.
 
 
 ### 🎯 Current Focus
