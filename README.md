@@ -76,6 +76,13 @@ A Python-based project that checks password strength using basic security rules.
 
 ---
 
+### 🛡️ File Integrity Checker
+
+A Python-based cybersecurity tool that uses SHA-256 hashing to detect changes in files by comparing the current hash with a previously saved baseline.
+
+**Technologies:** Python | SHA-256 | Hashlib | JSON | File Handling
+
+👉 [View Project](https://github.com/broun-cyber/file-integrity-checker)
 ### 🌐 Network Port Scanner
 
 A beginner-friendly Python TCP port scanner built to learn networking and cybersecurity fundamentals. It scans selected ports on localhost and identifies ports accepting TCP connections.
