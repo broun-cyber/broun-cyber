@@ -99,7 +99,17 @@ Currently focusing on:
 - Improving my GitHub portfolio
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=broun-cyber&show_icons=true&hide_border=true" alt="Broun Verma's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=broun-cyber&layout=compact&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
 ## 📫 Connect With Me
 
 <p align="center">
