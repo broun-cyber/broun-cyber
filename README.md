@@ -24,13 +24,7 @@ My goal is to continuously learn, build practical projects, and grow professiona
 
 ## 👨‍💻 About Me
 
-# Hi, I'm Broun Verma 👋
 
-### Recruiter | BCA Student | Cybersecurity Learner
-
-I am a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** while building practical skills in **Cybersecurity, Python, Linux, and Computer Networking**.
-
-My professional experience in recruitment has helped me develop communication, problem-solving, coordination, and people-management skills. Alongside my career, I am developing my technical foundation through hands-on projects and continuous learning.
 
 ### 🎯 Current Focus
 
