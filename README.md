@@ -99,6 +99,7 @@ Currently focusing on:
 - Improving my GitHub portfolio
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -110,6 +111,7 @@ Currently focusing on:
 </p>
 
 ---
+
 ## 📫 Connect With Me
 
 <p align="center">
