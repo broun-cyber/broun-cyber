@@ -130,6 +130,14 @@ A beginner-friendly Python TCP port scanner built to learn networking and cybers
 
 ---
 
+### 🔍 Security Log File Analyzer
+
+A Python-based cybersecurity project that analyzes log files, detects failed login attempts, counts activity by IP address, and flags repeated failed logins as suspicious.
+
+**Technologies:** Python | File Handling | Dictionaries | Log Analysis | Security Monitoring
+
+👉 [View Project](https://github.com/broun-cyber/log-file-analyzer)
+
 ### 🛡️ More Projects Coming Soon
 
 I'm currently learning and building projects related to:
