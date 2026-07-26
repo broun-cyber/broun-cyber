@@ -14,9 +14,6 @@ Building my journey from Recruitment to Technology & Cybersecurity
 
 ---
 
-
----
-
 ## 👨‍💻 About Me
 
 I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** with a focus on **Cybersecurity**.
