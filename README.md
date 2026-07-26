@@ -36,34 +36,7 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 
 ---
 
-## 🛠️ Technical Skills
-
-### 💻 Programming
-- Python
-- Programming Fundamentals
-
-### 🔐 Cybersecurity
-- Cybersecurity Fundamentals
-- Password Security
-- File Integrity & SHA-256 Hashing
-- Basic Port Scanning
-
-### 🌐 Networking
-- TCP/IP Fundamentals
-- IP Addresses & Ports
-- TCP Socket Basics
-
-### 🐧 Systems & Tools
-- Linux Fundamentals
-- Git
-- GitHub
-- VS Code
-
-### 📚 Currently Learning
-- Python
-- Linux
-- Computer Networking
-- Cybersecurity
+Remove duplicate profile content
 
 ### 💻 Programming
 
