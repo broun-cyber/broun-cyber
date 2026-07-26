@@ -128,6 +128,7 @@ I'm currently learning and building projects related to:
 - Networking
 - Cybersecurity
 - BCA Programming
+  
 ---
 
 ## 📫 Connect With Me
@@ -147,6 +148,7 @@ I'm currently learning and building projects related to:
 I'm always open to connecting with professionals, developers, recruiters, and cybersecurity learners.
 
 Feel free to reach out for networking, learning, collaboration, and professional opportunities.
+
 ---
 
 > Learning. Building. Improving.
