@@ -89,13 +89,25 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 
 ## 🚀 Projects
 
+---
+
 ### 🔐 Password Strength Checker
 
-A Python-based project that checks password strength using basic security rules.
+A Python-based project that checks password strength using basic security rules and provides suggestions for improving weak passwords.
 
 **Technologies:** Python | Regular Expressions | Cybersecurity Fundamentals
 
 👉 [View Project](https://github.com/broun-cyber/password-strength-checker)
+
+---
+
+### 🔐 Secure Password Generator
+
+A Python-based password generator that uses secure randomness to create passwords with uppercase letters, lowercase letters, numbers, and special characters.
+
+**Technologies:** Python | Secrets | String | Password Security
+
+👉 [View Project](https://github.com/broun-cyber/secure-password-generator)
 
 ---
 
