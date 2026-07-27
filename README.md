@@ -95,7 +95,7 @@ A Python-based project that checks password strength using basic security rules 
 
 **Technologies:** Python | Regular Expressions | Cybersecurity Fundamentals
 
-👉 [View Project](https://github.com/broun-cyber/password-strength-checker)
+👉 [View Project](https://github.com/brounverma-tech/password-strength-checker)
 
 ---
 
@@ -105,7 +105,7 @@ A Python-based password generator that uses secure randomness to create password
 
 **Technologies:** Python | Secrets | String | Password Security
 
-👉 [View Project](https://github.com/broun-cyber/secure-password-generator)
+👉 [View Project](https://github.com/brounverma-tech/secure-password-generator)
 
 ---
 
@@ -115,7 +115,7 @@ A Python-based cybersecurity tool that uses SHA-256 hashing to detect changes in
 
 **Technologies:** Python | SHA-256 | Hashlib | JSON | File Handling
 
-👉 [View Project](https://github.com/broun-cyber/file-integrity-checker)
+👉 [View Project](https://github.com/brounverma-tech/file-integrity-checker)
 
 ---
 
@@ -125,7 +125,7 @@ A beginner-friendly Python TCP port scanner built to learn networking and cybers
 
 **Technologies:** Python | Socket Programming | TCP/IP | Networking
 
-👉 [View Project](https://github.com/broun-cyber/network-port-scanner)
+👉 [View Project](https://github.com/brounverma-tech/network-port-scanner)
 
 ---
 
@@ -135,7 +135,7 @@ A Python-based cybersecurity project that analyzes log files, detects failed log
 
 **Technologies:** Python | File Handling | Dictionaries | Log Analysis | Security Monitoring
 
-👉 [View Project](https://github.com/broun-cyber/log-file-analyzer)
+👉 [View Project](https://github.com/brounverma-tech/log-file-analyzer)
 
 ---
 
@@ -145,7 +145,7 @@ A beginner-friendly C program that accepts marks for three subjects, validates t
 
 **Technologies:** C | stdio.h | User Input | Input Validation | Arithmetic Operations | Conditional Statements
 
-👉 [View Project](https://github.com/broun-cyber/c-student-grade-calculator)
+👉 [View Project](https://github.com/brounverma-tech/c-student-grade-calculator)
 
 ---
 
@@ -155,7 +155,7 @@ A beginner-friendly C number guessing game featuring multiple difficulty levels,
 
 **Technologies:** C | stdio.h | stdlib.h | time.h | Random Numbers | Loops | Conditional Statements | Input Validation
 
-👉 [View Project](https://github.com/broun-cyber/c-number-guessing-game)
+👉 [View Project](https://github.com/brounverma-tech/c-number-guessing-game)
 
 ### 🛡️ More Projects Coming Soon
 
