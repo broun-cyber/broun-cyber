@@ -9,7 +9,7 @@ Building my journey from Recruitment to Technology & Cybersecurity
 </p>
 
 <p align="center">
-🐍 Python • 🐧 Linux • 🌐 Networking • 🔐 Cybersecurity
+💻 C • 🐍 Python • 🐧 Linux • 🌐 Networking • 🔐 Cybersecurity
 </p>
 
 ---
@@ -18,7 +18,7 @@ Building my journey from Recruitment to Technology & Cybersecurity
 
 I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** with a focus on **Cybersecurity**.
 
-Alongside my professional experience in recruitment, I'm building practical skills in **Python, Linux, Computer Networking, Git/GitHub, and Cybersecurity fundamentals** through hands-on projects.
+Alongside my professional experience in recruitment, I'm building practical skills in **C, Python, Linux, Computer Networking, Git/GitHub, and Cybersecurity fundamentals** through hands-on projects.
 
 My recruitment background has helped me develop strong **communication, coordination, problem-solving, and people-management skills**, while my BCA journey is helping me build a strong technical foundation.
 
@@ -27,11 +27,12 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 
 ### 🎯 Current Focus
 
+- 💻 C Programming
 - 🐍 Python Programming
 - 🐧 Linux Fundamentals
 - 🌐 Computer Networking
 - 🔐 Cybersecurity Fundamentals
-- 🛠️ Hands-on Security Projects
+- 🛠️ Programming & Cybersecurity Projects
 - 📚 BCA Studies
 
 ---
@@ -42,11 +43,9 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 
 ![Python](https://img.shields.io/badge/Python-Learning-blue?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Learning-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Learning-blue?logo=cplusplus&logoColor=white)
 
 - Python Programming
 - C Programming
-- C++ Programming
 - Programming Fundamentals
   
 ### 🔐 Cybersecurity
@@ -142,9 +141,9 @@ A Python-based cybersecurity project that analyzes log files, detects failed log
 
 ### 🎓 Student Grade Calculator in C
 
-A beginner-friendly C programming project that accepts marks for three subjects, calculates total marks and percentage, and assigns a grade using conditional statements.
+A beginner-friendly C program that accepts marks for three subjects, validates the entered marks, calculates total and percentage, assigns a grade, and displays PASS/FAIL status.
 
-**Technologies:** C | stdio.h | User Input | Arithmetic Operations | Conditional Statements
+**Technologies:** C | stdio.h | User Input | Input Validation | Arithmetic Operations | Conditional Statements
 
 👉 [View Project](https://github.com/broun-cyber/c-student-grade-calculator)
 
@@ -152,9 +151,9 @@ A beginner-friendly C programming project that accepts marks for three subjects,
 
 ### 🎯 Number Guessing Game in C
 
-A beginner-friendly C programming project that generates a random number between 1 and 100 and challenges the user to guess it using Too High and Too Low hints.
+A beginner-friendly C number guessing game featuring multiple difficulty levels, dynamic number ranges, guess validation, limited attempts, Too High/Too Low hints, and a Game Over system.
 
-**Technologies:** C | stdio.h | stdlib.h | time.h | Random Numbers | Loops | Conditional Statements
+**Technologies:** C | stdio.h | stdlib.h | time.h | Random Numbers | Loops | Conditional Statements | Input Validation
 
 👉 [View Project](https://github.com/broun-cyber/c-number-guessing-game)
 
@@ -162,11 +161,12 @@ A beginner-friendly C programming project that generates a random number between
 
 I'm currently learning and building projects related to:
 
-- Python
+- C Programming
+- Python Programming
 - Linux
-- Networking
+- Computer Networking
 - Cybersecurity
-- BCA Programming
+- BCA Programming Projects
   
 ---
 
