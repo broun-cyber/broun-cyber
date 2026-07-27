@@ -148,6 +148,16 @@ A beginner-friendly C programming project that accepts marks for three subjects,
 
 👉 [View Project](https://github.com/broun-cyber/c-student-grade-calculator)
 
+---
+
+### 🎯 Number Guessing Game in C
+
+A beginner-friendly C programming project that generates a random number between 1 and 100 and challenges the user to guess it using Too High and Too Low hints.
+
+**Technologies:** C | stdio.h | stdlib.h | time.h | Random Numbers | Loops | Conditional Statements
+
+👉 [View Project](https://github.com/broun-cyber/c-number-guessing-game)
+
 ### 🛡️ More Projects Coming Soon
 
 I'm currently learning and building projects related to:
