@@ -138,6 +138,16 @@ A Python-based cybersecurity project that analyzes log files, detects failed log
 
 👉 [View Project](https://github.com/broun-cyber/log-file-analyzer)
 
+---
+
+### 🎓 Student Grade Calculator in C
+
+A beginner-friendly C programming project that accepts marks for three subjects, calculates total marks and percentage, and assigns a grade using conditional statements.
+
+**Technologies:** C | stdio.h | User Input | Arithmetic Operations | Conditional Statements
+
+👉 [View Project](https://github.com/broun-cyber/c-student-grade-calculator)
+
 ### 🛡️ More Projects Coming Soon
 
 I'm currently learning and building projects related to:
